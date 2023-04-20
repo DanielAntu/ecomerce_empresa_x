@@ -57,7 +57,7 @@ function soma(a, b) {
 
 ## Lista de tarefa a faser
 
--   [ x ] Área de menbros
+-   [x] Área de menbros
 -   [ ] Integração com outros pagamentos
 -   [ ] Sistema de bonus
--   [ x ] css do rodapé
+-   [x] css do rodapé
