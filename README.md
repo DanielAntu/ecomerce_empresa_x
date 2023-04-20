@@ -4,7 +4,7 @@ Vamos criar um um **ecomerce**, para a _empresa x_ e blablabla
 
 ## fUNCIONALIDADE
 
-_Checkout, \*\*Tela de produto_\*\*, catálogo, Home com banner\_
+_Checkout, **Tela de produto**, catálogo, Home com banner_
 
 **Checkout, _Tela de produto_, catálogo, Home com banner**
 
