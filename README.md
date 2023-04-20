@@ -19,3 +19,9 @@ _Checkout, **Tela de produto**, catálogo, Home com banner_
 -   JavaScript
 -   PHP
 -   MySQL
+
+### funcionalidades a desenvolver
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
