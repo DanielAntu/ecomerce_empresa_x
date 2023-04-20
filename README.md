@@ -54,3 +54,10 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+## Lista de tarefa a faser
+
+-   [ x ] Área de menbros
+-   [ ] Integração com outros pagamentos
+-   [ ] Sistema de bonus
+-   [ x ] css do rodapé
