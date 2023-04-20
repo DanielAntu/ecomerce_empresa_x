@@ -1,6 +1,6 @@
 # Ecomerce empresa x
 
-Vamos criar um um ecomerce, para a empresa x e blablabla
+Vamos criar um um **ecomerce**, para a _empresa x_ e blablabla
 
 ## fUNCIONALIDADE
 
